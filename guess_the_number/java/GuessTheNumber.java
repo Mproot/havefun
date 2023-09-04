@@ -1,5 +1,3 @@
-package buildingwithjava;
-
 import java.util.Random;
 import java.util.Scanner;
 
